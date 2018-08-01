@@ -1,0 +1,1325 @@
+processing_natural	2	13
+natural_processing	0	11
+processing_language	2	13	483	536	961
+language_processing	1	12	482	535	960
+encyclopedia_free	9
+free_encyclopedia	8
+wikipedia_encyclopedia	5
+encyclopedia_wikipedia	9
+field_processing	19
+processing_field	13
+processing_nlp	13
+nlp_processing	15
+field_be	19
+be_field	17
+science_computer	22
+computer_science	21
+field_science	19
+science_field	22
+intelligence_artificial	25
+artificial_intelligence	24
+field_intelligence	19
+intelligence_field	25
+field_linguistics	19
+linguistics_field	28
+linguistics_concern	28
+concern_linguistics	29
+concern_interaction	29
+interaction_concern	32
+interaction_computer	32
+computer_interaction	34
+language_human	40
+human_language	36
+language_natural	40
+natural_language	38
+computer_language	34
+language_computer	40
+relate_such	48
+such_relate	44
+relate_nlp	48
+nlp_relate	46
+relate_be	48
+be_relate	47
+relate_area	48
+area_relate	51
+interaction_humani-computer	54
+humani-computer_interaction	53
+area_interaction	51
+interaction_area	54
+challenge_many	58
+many_challenge	57
+involve_challenge	61
+challenge_involve	58
+challenge_nlp	58
+nlp_challenge	60
+understanding_natural	64
+natural_understanding	62
+understanding_language	64
+language_understanding	63
+enable_understanding	69
+understanding_enable	64
+understanding_be	64
+be_understanding	67
+involve_enable	61
+enable_involve	69
+enable_computer	69
+computer_enable	70
+enable_derive	69
+derive_enable	72
+derive_meaning	72
+meaning_derive	73
+input_human	79
+human_input	75
+human_natural	75
+natural_human	77
+input_language	79
+language_input	78
+derive_input	72
+input_derive	79
+involve_other	83
+other_involve	82
+involve_involve	61	83
+generation_natural	86
+natural_generation	84
+generation_language	86
+language_generation	85
+involve_generation	83
+generation_involve	86
+start_history	96
+history_start	92
+history_nlp	92
+nlp_history	94
+start_generally	96
+generally_start	95
+find_work	105
+work_find	102
+find_be	105
+be_find	104
+start_find	96
+find_start	105
+period_earlier	108
+earlier_period	107
+find_period	105
+period_find	108
+turing_alan	115
+alan_turing	114
+publish_turing	116
+turing_publish	115
+publish_article	116
+article_publish	118
+article_title	118
+title_article	119
+machinery_computing	122
+computing_machinery	121
+title_machinery	119
+machinery_title	122
+machinery_intelligence	122
+intelligence_machinery	124
+article_propose	118
+propose_article	127
+call_be	131
+be_call	129
+call_now	131
+now_call	130
+propose_call	127
+call_propose	131
+test_turing	134
+turing_test	133
+call_test	131
+test_call	134
+call_criterion	131
+criterion_call	137
+criterion_intelligence	137
+intelligence_criterion	139
+experiment_georgetown	144
+georgetown_experiment	143
+involve_experiment	147
+experiment_involve	144
+automatic_fully	149
+fully_automatic	148
+translation_automatic	150
+automatic_translation	149
+involve_translation	147
+translation_involve	150
+sentence_russian	156
+russian_sentence	155
+translation_sentence	150
+sentence_translation	156
+involve_english	147
+english_involve	158
+claim_author	163
+author_claim	162
+problem_year	177
+year_problem	169
+translation_machine	172	224	686
+machine_translation	171	223	685
+problem_translation	177
+translation_problem	172
+problem_be	177
+be_problem	174
+problem_solve	177
+solve_problem	176
+claim_problem	163
+problem_claim	177
+slower_however	186
+however_slower	180
+progress_real	183
+real_progress	182
+slower_progress	186
+progress_slower	183
+slower_be	186
+be_slower	184
+slower_much	186
+much_slower	185
+report_alpac	192
+alpac_report	191
+reduce_report	216
+report_reduce	192
+report_find	192
+find_report	197
+fail_year	204
+year_fail	200
+research_long	202
+long_research	201
+fail_research	204
+research_fail	202
+fail_have	204
+have_fail	203
+find_fail	197
+fail_find	204
+fail_fulfill	204
+fulfill_fail	206
+fulfill_expectation	206
+expectation_fulfill	208
+reduce_fund	216
+fund_reduce	210
+fund_machine	210
+machine_fund	212
+reduce_translation	216
+translation_reduce	213
+reduce_be	216
+be_reduce	214
+reduce_dramatically	216
+dramatically_reduce	215
+slower_reduce	186
+reduce_slower	216
+research_little	221
+little_research	219
+research_further	221
+further_research	220
+conduct_research	226
+research_conduct	221
+research_translation	221
+translation_research	224
+conduct_be	226
+be_conduct	225
+1980_late	230	464
+late_1980	229	463
+conduct_1980	226
+1980_conduct	230
+machine_first	236
+first_machine	234
+machine_statistical	236
+statistical_machine	235
+develop_machine	240
+machine_develop	236
+system_translation	238
+translation_system	237
+machine_system	236
+system_machine	238
+develop_be	240	703
+be_develop	239	702
+1980_develop	230
+develop_1980	240
+system_notably	247
+notably_system	244
+system_successful	247
+successful_system	245
+system_nlp	247	449
+nlp_system	246	448
+shrdlu_system	253	253
+system_shrdlu	247	258
+system_develop	247
+develop_system	248
+develop_1960	248
+1960_develop	251
+shrdlu_be	253
+be_shrdlu	252
+system_natural	258
+natural_system	256
+system_language	258	751
+language_system	257	747
+system_work	258
+work_system	259
+work_restricted	259
+restricted_work	261
+world_block	264
+block_world	263
+restricted_world	261
+world_restricted	264
+vocabulary_restricted	268
+restricted_vocabulary	267
+work_vocabulary	259
+vocabulary_work	268
+write_eliza	280
+eliza_write	271
+eliza_simulation	271
+simulation_eliza	274
+psychotherapist_rogerian	278
+rogerian_psychotherapist	277
+simulation_psychotherapist	274
+psychotherapist_simulation	278
+shrdlu_write	253
+write_shrdlu	280
+weizenbaum_joseph	283
+joseph_weizenbaum	282
+write_weizenbaum	280
+weizenbaum_write	283
+provide_use	302
+use_provide	290
+information_almost	293
+almost_information	291
+use_information	290
+information_use	293
+thought_human	296
+human_thought	295
+use_thought	290
+thought_use	296
+thought_emotion	296
+emotion_thought	298
+provide_eliza	302	323
+eliza_provide	300	321
+provide_sometimes	302
+sometimes_provide	301
+human-like_startlingly	305
+startlingly_human-like	304
+interaction_human-like	306
+human-like_interaction	305
+provide_interaction	302
+interaction_provide	306
+exceed_patient	314
+patient_exceed	312
+provide_exceed	323
+exceed_provide	314
+small_very	317
+very_small	316
+base_small	319
+small_base	317
+base_knowledge	319
+knowledge_base	318
+exceed_base	314
+base_exceed	319
+response_generic	326
+generic_response	325
+provide_response	323
+response_provide	326
+hurt_example	336
+example_hurt	329
+hurt_respond	336
+respond_hurt	331
+respond_head	331
+head_respond	335
+response_hurt	326
+hurt_response	336
+say_do	343
+do_say	341
+hurt_head	346
+head_hurt	345
+say_hurt	343
+hurt_say	346
+programmer_many	354
+many_programmer	353
+begin_programmer	355
+programmer_begin	354
+begin_write	355
+write_begin	357
+write_conceptual	357
+conceptual_write	359
+conceptual_ontology	359
+ontology_conceptual	360
+conceptual_structure	359
+structure_conceptual	364
+information_real-world	366
+real-world_information	365
+structure_information	364
+information_structure	366
+datum_computer-understandable	369
+computer-understandable_datum	368
+structure_datum	364
+datum_structure	369
+margie_example	374
+example_margie	372
+margie_be	374
+be_margie	373
+margie_schank	374
+schank_margie	376
+margie_sam	374
+sam_margie	381
+sam_cullingford	381
+cullingford_sam	383
+sam_pam	381
+pam_sam	388
+pam_wilensky	388
+wilensky_pam	390
+sam_talespin	381
+talespin_sam	395
+talespin_meehan	395
+meehan_talespin	397
+sam_qualm	381
+qualm_sam	402
+qualm_lehnert	402
+lehnert_qualm	404
+sam_politics	381
+politics_sam	409
+politics_carbonell	409
+carbonell_politics	411
+unit_plot	418
+plot_unit	417
+sam_unit	381
+unit_sam	418
+unit_lehnert	418
+lehnert_unit	420
+write_time	432
+time_write	427
+chatterbot_many	430
+many_chatterbot	429
+write_chatterbot	432
+chatterbot_write	430
+write_be	432
+be_write	431
+write_parry	432
+parry_write	434
+parry_racter	434
+racter_parry	436
+parry_jabberwacky	434
+jabberwacky_parry	439
+system_most	449	760
+most_system	447	758
+base_system	451	1381
+system_base	449	1380
+base_be	451	935
+be_base	450	934
+set_complex	454
+complex_set	453
+base_set	451
+set_base	454
+rule_hand-written	457	562	1114	1295	1305	1345
+hand-written_rule	456	561	1113	1294	1304	1344
+set_rule	454	977
+rule_set	457	979
+be_start	469
+start_be	460
+be_however	469	890
+however_be	466	887
+be_revolution	469
+revolution_be	471
+revolution_nlp	471
+nlp_revolution	473
+be_introduction	469
+introduction_be	476
+algorithm_machine	480	1061
+machine_algorithm	478	1059
+algorithm_learning	480	828	991	1061
+learning_algorithm	479	827	990	1060
+introduction_algorithm	476
+algorithm_introduction	480
+algorithm_processing	480
+processing_algorithm	483
+due_be	488
+be_due	487
+increase_steady	493
+steady_increase	492
+due_increase	488
+increase_due	493
+power_computational	496
+computational_power	495
+due_power	488
+power_due	496
+power_result	496
+result_power	497
+law_moore	501
+moore_law	499
+result_law	497	733
+law_result	501	735
+law_gradual	501
+gradual_law	504
+gradual_lessen	504
+lessen_gradual	505
+gradual_dominance	504
+dominance_gradual	508
+theory_chomskyan	511
+chomskyan_theory	510
+dominance_theory	508
+theory_dominance	511
+gradual_linguistics	504
+linguistics_gradual	513
+grammar_transformational	517
+transformational_grammar	516
+underpinning_theoretical	522
+theoretical_underpinning	521
+discourage_underpinning	523
+underpinning_discourage	522
+gradual_discourage	504
+discourage_gradual	523
+discourage_sort	523
+sort_discourage	525
+linguistics_corpus	528
+corpus_linguistics	527
+sort_linguistics	525
+linguistics_sort	528
+sort_underlie	525
+underlie_sort	530
+approach_machine-learning	533
+machine-learning_approach	532
+underlie_approach	530
+approach_underlie	533
+underlie_processing	530
+processing_underlie	536
+machine_earliest-used	543
+earliest-used_machine	542
+machine_learn	543
+learn_machine	544
+learn_algorithm	544
+algorithm_learn	545
+tree_decision	550	1100
+decision_tree	549	1099
+algorithm_tree	545
+tree_algorithm	550
+produce_system	552	1102
+system_produce	553	1103
+rule_hard	557	1107
+hard_rule	555	1105
+rule_if-then	557	1107
+if-then_rule	556	1106
+system_rule	553	1103	1111	1302	1341
+rule_system	557	1107	1114	1305	1345
+rule_similar	557	562	1107
+similar_rule	558	558	1108
+rule_exist	562
+exist_rule	560
+tag_however	570
+however_tag	565
+tag_part	570
+part_tag	567
+part_speech	567
+speech_part	569
+tag_introduce	570
+introduce_tag	571
+introduce_use	571
+use_introduce	573
+model_hidden	577
+hidden_model	575
+model_markov	577
+markov_model	576
+use_model	573
+model_use	577
+introduce_nlp	571
+nlp_introduce	579
+focus_increasingly	586	822	1127
+increasingly_focus	582	821	1121
+focus_research	586	822	1127
+research_focus	584	819	1125
+focus_have	586	822	1127
+have_focus	585	820	1126
+tag_focus	570
+focus_tag	586
+model_statistical	589	629	701	1130
+statistical_model	588	628	700	1129
+focus_model	586	1127
+model_focus	589	1130
+model_make	589	1130
+make_model	592	1133
+decision_soft	596	1137	1309
+soft_decision	593	1134	1308
+decision_probabilistic	596	1137
+probabilistic_decision	595	1136
+make_decision	592	1133	1307
+decision_make	596	1137	1309
+make_attach	592	1133
+attach_make	599	1140
+weight_real-valued	601	1142
+real-valued_weight	600	1141
+attach_weight	599	1140
+weight_attach	601	1142
+attach_feature	599	1140
+feature_attach	604	1146
+feature_make	604
+make_feature	605
+datum_input	609	884	1088	1336
+input_datum	608	883	1087	1335
+make_datum	605
+datum_make	609
+model_cache	615
+cache_model	613
+model_language	615
+language_model	614
+example_model	625	625
+model_example	615	629
+system_many	621
+many_system	618
+system_speech	621
+speech_system	619
+system_recognition	621
+recognition_system	620
+rely_system	623
+system_rely	621
+rely_now	623
+now_rely	622
+model_rely	615
+rely_model	623
+example_be	625
+be_example	624
+model_such	629	633	1150
+such_model	627	632	1149
+robust_model	637	1254
+model_robust	633	1251
+robust_be	637	1254
+be_robust	634	1253
+robust_generally	637
+generally_robust	635
+robust_more	637
+more_robust	636
+robust_give	637
+give_robust	639
+input_unfamiliar	641	1257
+unfamiliar_input	640	1256
+give_input	639
+input_give	641
+input_especially	644
+especially_input	643
+input_input	641	644	1257	1274
+input_contain	644
+contain_input	646
+contain_error	646
+error_contain	647
+common_as	652
+as_common	649
+common_be	652	1118
+be_common	650	1116
+common_very	652
+very_common	651
+error_common	647
+common_error	652
+datum_real-world	655
+real-world_datum	654
+common_datum	652
+datum_common	655
+give_produce	639
+produce_give	659
+result_more	662	1174
+more_result	660	1172
+result_reliable	662	1174
+reliable_result	661	1173
+produce_result	659	721	874	1171
+result_produce	662	733	877	1174
+produce_integrate	659
+integrate_produce	664
+system_larger	668	1187
+larger_system	667	1186
+integrate_system	664
+system_integrate	668
+system_comprise	668
+comprise_system	669
+subtask_multiple	671
+multiple_subtask	670
+comprise_subtask	669
+subtask_comprise	671
+occur_many	680
+many_occur	674
+success_notable	679
+notable_success	677
+success_early	679
+early_success	678
+many_success	674
+success_many	679
+occur_field	680
+field_occur	683
+field_translation	683
+translation_field	686
+translation_due	686
+due_translation	688
+due_especially	688
+especially_due	689
+due_work	688
+work_due	691
+research_ibm	694
+ibm_research	693
+work_research	691
+research_work	694
+develop_successively	703
+successively_develop	697
+complicated_more	699
+more_complicated	698
+model_complicated	701
+complicated_model	699
+develop_model	703
+model_develop	701
+translation_develop	686
+develop_translation	703
+able_system	709
+system_able	707
+able_be	709	834
+be_able	708	833
+able_take	709
+take_able	711
+take_advantage	711
+advantage_take	712
+corpus_exist	717
+exist_corpus	714
+corpus_multilingual	717
+multilingual_corpus	715
+corpus_textual	717
+textual_corpus	716
+advantage_corpus	712
+corpus_advantage	717
+produce_have	721	1171
+have_produce	719	1151
+produce_be	721
+be_produce	720
+corpus_produce	717
+produce_corpus	721
+produce_parliament	721
+parliament_produce	724
+parliament_canada	724
+canada_parliament	726
+union_european	730
+european_union	729
+canada_union	726
+union_canada	730
+law_call	735
+call_law	736
+call_translation	736
+translation_call	739
+proceedings_governmental	743
+governmental_proceedings	742
+translation_proceedings	739
+proceedings_translation	743
+language_official	747
+official_language	746
+call_language	736
+language_call	747
+system_corresponding	751
+corresponding_system	750
+system_government	751
+government_system	753
+depend_however	761
+however_depend	756
+system_other	760
+other_system	759
+depend_system	761
+system_depend	760
+develop_depend	765
+depend_develop	761
+depend_corpus	761
+corpus_depend	763
+develop_specifically	765
+specifically_develop	764
+develop_task	765
+task_develop	768
+task_implement	768
+implement_task	769
+implement_system	769
+system_implement	772
+system_be	772
+be_system	775
+continue_often	779
+often_continue	778
+be_continue	775	781
+continue_be	779	779
+limitation_major	785
+major_limitation	784
+develop_limitation	765
+limitation_develop	785
+limitation_success	785
+success_limitation	788
+success_system	788
+system_success	791
+go_result	804
+result_go	796
+deal_great	800
+great_deal	799
+go_deal	804
+deal_go	800
+deal_research	800
+research_deal	802
+go_have	804
+have_go	803
+go_method	804
+method_go	806
+method_more	806
+more_method	808
+learn_effectively	810
+effectively_learn	809
+more_learn	808
+learn_more	810
+amount_limited	813
+limited_amount	812
+learn_amount	810
+amount_learn	813
+amount_datum	813	881	893
+datum_amount	815	884	896
+research_recent	819
+recent_research	818
+algorithm_unsupervised	828
+unsupervised_algorithm	824
+unsupervised_semi-supervised	824
+semi-supervised_unsupervised	826
+focus_algorithm	822
+algorithm_focus	828
+algorithm_such	832
+such_algorithm	831
+able_algorithm	834
+algorithm_able	832
+able_learn	834
+learn_able	836
+learn_datum	836
+datum_learn	838
+hand-annotate_have	843
+have_hand-annotate	840
+hand-annotate_not	843
+not_hand-annotate	841
+hand-annotate_be	843
+be_hand-annotate	842
+datum_hand-annotate	838
+hand-annotate_datum	843
+answer_desire	847
+desire_answer	846
+hand-annotate_answer	843
+answer_hand-annotate	847
+learn_use	836
+use_learn	850
+use_combination	850
+combination_use	852
+datum_annotated	857
+annotated_datum	854
+annotated_non-annotated	854
+non-annotated_annotated	856
+combination_datum	852
+datum_combination	857
+difficult_generally	867
+generally_difficult	860
+difficult_task	867	1365
+task_difficult	863	1366
+difficult_be	867
+be_difficult	864
+difficult_much	867	1365
+much_difficult	865	1363
+difficult_more	867	1365
+more_difficult	866	1364
+learning_supervised	870
+supervised_learning	869
+difficult_learning	867
+learning_difficult	870
+produce_typically	874
+typically_produce	873
+difficult_produce	867
+produce_difficult	874
+accurate_less	876
+less_accurate	875
+result_accurate	877
+accurate_result	876
+amount_give	881
+give_amount	880
+result_amount	877
+amount_result	881
+amount_enormous	893
+enormous_amount	892
+be_amount	890
+amount_be	893
+datum_non-annotated	896
+non-annotated_datum	895
+datum_available	896
+available_datum	897
+amount_include	893
+include_amount	899
+thing_other	903
+other_thing	902
+include_thing	899
+thing_include	903
+content_entire	907
+entire_content	906
+include_content	899
+content_include	907
+web_world	912
+world_web	910
+web_wide	912
+wide_web	911
+content_web	907
+web_content	912
+make_often	918
+often_make	917
+amount_make	893
+make_amount	918
+result_inferior	923
+inferior_result	922
+make_result	918
+result_make	923
+nlp_use	926
+use_nlp	927
+learning_machine	929	938	943	950	1209
+machine_learning	928	937	942	949	1208
+use_learning	927	1206
+learning_use	929	1209
+algorithm_modern	933
+modern_algorithm	931
+algorithm_nlp	933
+nlp_algorithm	932
+base_algorithm	935
+algorithm_base	933
+base_learning	935
+learning_base	938
+learning_especially	938
+especially_learning	940
+learning_statistical	943
+statistical_learning	941
+learning_learning	938	943
+different_paradigm	952
+paradigm_different	947
+paradigm_learning	947
+learning_paradigm	950
+different_be	952
+be_different	951
+attempt_most	958
+most_attempt	956
+attempt_prior	958
+prior_attempt	957
+different_processing	952
+processing_different	961
+involve_prior	970
+prior_involve	964
+involve_implementation	970
+implementation_involve	965
+task_language-processing	968
+language-processing_task	967
+implementation_task	965
+task_implementation	968
+involve_typically	970
+typically_involve	969
+coding_direct	974
+direct_coding	972
+coding_hand	974
+hand_coding	973
+involve_coding	970
+coding_involve	974
+set_large	977	1077
+large_set	976	1076
+coding_set	974
+set_coding	977
+paradigm_machine-learning	984
+machine-learning_paradigm	983
+call_paradigm	985
+paradigm_call	984
+algorithm_general	991
+general_algorithm	989
+use_algorithm	988	1244
+algorithm_use	991	1248
+algorithm_often	991
+often_algorithm	993
+use_not	988
+not_use	996
+not_always	996
+always_not	997
+use_ground	988
+ground_use	999
+inference_statistical	1002
+statistical_inference	1001
+ground_inference	999
+inference_ground	1002
+learn_automatically	1006	1323
+automatically_learn	1005	1322
+rule_such	1008
+such_rule	1007
+learn_rule	1006	1323
+rule_learn	1008	1325
+learn_analysis	1006
+analysis_learn	1011
+corpus_large	1014
+large_corpus	1013
+analysis_corpus	1011
+corpus_analysis	1014
+example_typical	1018
+typical_example	1016
+example_real-world	1018
+real-world_example	1017
+corpus_example	1014
+example_corpus	1018
+set_corpus	1032
+corpus_set	1022
+corpus_plural	1022	1027
+plural_corpus	1024	1024
+set_be	1032
+be_set	1030
+set_document	1032
+document_set	1034
+sentence_sometimes	1040
+sometimes_sentence	1037
+sentence_individual	1040
+individual_sentence	1039
+document_sentence	1034
+sentence_document	1040
+hand-annotated_have	1045
+have_hand-annotated	1043
+hand-annotated_be	1045
+be_hand-annotated	1044
+document_hand-annotated	1034
+hand-annotated_document	1045
+value_correct	1049
+correct_value	1048
+hand-annotated_value	1045
+value_hand-annotated	1049
+learn_be	1052
+be_learn	1051
+hand-annotated_learn	1045
+learn_hand-annotated	1052
+class_many	1057
+many_class	1055
+class_different	1057
+different_class	1056
+apply_class	1064
+class_apply	1057
+class_algorithm	1057
+algorithm_class	1061
+apply_have	1064
+have_apply	1062
+apply_be	1064
+be_apply	1063
+task_nlp	1067
+nlp_task	1066
+apply_task	1064
+task_apply	1067
+take_algorithm	1072
+algorithm_take	1071
+input_as	1074
+as_input	1073
+take_input	1072
+input_take	1074
+take_set	1072
+set_take	1077
+set_feature	1077
+feature_set	1080
+generate_be	1084
+be_generate	1083
+feature_generate	1080
+generate_feature	1084
+generate_datum	1084
+datum_generate	1088
+algorithm_earliest-used	1095
+earliest-used_algorithm	1094
+similar_system	1108
+system_similar	1111
+common_then	1118
+then_common	1117
+system_common	1111
+common_system	1118
+focus_however	1127
+however_focus	1123
+feature_input	1146
+input_feature	1145
+have_model	1151
+model_have	1150
+have_advantage	1151	1195
+advantage_have	1153	1197
+have_express	1151
+express_have	1157
+certainty_relative	1160
+relative_certainty	1159
+express_certainty	1157
+certainty_express	1160
+answer_many	1165
+many_answer	1162
+answer_different	1165
+different_answer	1163
+answer_possible	1165
+possible_answer	1164
+certainty_answer	1160
+answer_certainty	1165
+include_model	1180
+model_include	1178
+include_be	1180
+be_include	1179
+produce_include	1171
+include_produce	1180
+include_component	1180
+component_include	1183
+component_system	1183
+system_component	1187
+have_systems	1195
+systems_have	1190
+algorithm_machine-learning	1194
+machine-learning_algorithm	1193
+systems_algorithm	1190
+algorithm_systems	1194
+advantage_many	1197
+many_advantage	1196
+rule_hand-produced	1200
+hand-produced_rule	1199
+advantage_rule	1197
+rule_advantage	1200
+procedure_learning	1205
+learning_procedure	1204
+focus_procedure	1211
+procedure_focus	1205
+procedure_use	1205
+use_procedure	1206
+focus_automatically	1211
+automatically_focus	1210
+obvious_focus	1228
+focus_obvious	1211
+case_most	1216
+most_case	1214
+case_common	1216
+common_case	1215
+focus_case	1211
+case_focus	1216
+focus_write	1211
+write_focus	1220
+write_rule	1220
+rule_write	1221
+write_hand	1220
+hand_write	1223
+obvious_be	1228
+be_obvious	1225
+obvious_often	1228
+often_obvious	1226
+obvious_not	1228
+not_obvious	1227
+direct_effort	1236
+effort_direct	1233
+direct_be	1236
+be_direct	1235
+obvious_direct	1228
+direct_obvious	1236
+make_automatic	1243
+automatic_make	1239
+automatic_learn	1239
+learn_automatic	1240
+learn_procedure	1240
+procedure_learn	1241
+make_use	1243
+use_make	1244
+algorithm_statistical	1248
+statistical_algorithm	1246
+algorithm_inference	1248
+inference_algorithm	1247
+make_produce	1243
+produce_make	1250
+produce_model	1250
+model_produce	1251
+robust_input	1254
+input_robust	1257
+contain_word	1260
+word_contain	1261
+word_structure	1261
+structure_word	1263
+see_have	1268
+have_see	1265
+see_not	1268
+not_see	1266
+see_be	1268
+be_see	1267
+word_see	1261
+see_word	1268
+input_erroneous	1274
+erroneous_input	1273
+misspell_word	1278
+word_misspell	1279
+word_word	1279	1281
+omit_accidentally	1283
+accidentally_omit	1282
+word_omit	1279
+omit_word	1283
+handle_generally	1289	1289
+generally_handle	1287	1299
+input_such	1291
+such_input	1290
+handle_input	1289
+input_handle	1291
+input_gracefully	1291
+gracefully_input	1292
+gracefully_rule	1292
+rule_gracefully	1295
+gracefully_more	1292
+more_gracefully	1298
+handle_create	1289
+create_handle	1301
+create_system	1301	1399
+system_create	1302	1406
+system_make	1302	1341
+make_system	1307	1349
+difficult_extremely	1312
+extremely_difficult	1311
+decision_difficult	1309
+difficult_decision	1312
+difficult_error-prone	1312
+error-prone_difficult	1314
+difficult_time-consuming	1312
+time-consuming_difficult	1316
+make_systems	1328
+systems_make	1319
+systems_base	1319
+base_systems	1320
+base_learn	1320
+learn_base	1323
+make_be	1328	1349
+be_make	1327	1348
+accurate_more	1330	1351
+more_accurate	1329	1350
+make_accurate	1328	1349
+accurate_make	1330	1351
+make_simply	1328
+simply_make	1331
+make_supply	1328
+supply_make	1333
+datum_more	1336	1401
+more_datum	1334	1400
+supply_datum	1333
+datum_supply	1336
+make_however	1349
+however_make	1339
+make_only	1349
+only_make	1347
+make_increase	1349
+increase_make	1353
+increase_complexity	1353	1422
+complexity_increase	1355	1425
+complexity_rule	1355
+rule_complexity	1358
+task_be	1366
+be_task	1361
+rule_task	1358
+task_rule	1366
+be_particular	1373
+particular_be	1370
+be_limit	1373
+limit_be	1375
+limit_complexity	1375
+complexity_limit	1378
+complexity_system	1378
+system_complexity	1380
+rule_hand-crafted	1384
+hand-crafted_rule	1383
+base_rule	1381
+rule_base	1384
+become_system	1390
+system_become	1389
+rule_become	1384
+become_rule	1390
+unmanageable_more	1394
+more_unmanageable	1391
+more_more	1391	1393
+become_unmanageable	1390
+unmanageable_become	1394
+create_however	1399
+however_create	1397
+create_datum	1399
+datum_create	1401
+create_input	1399
+input_create	1403
+system_machine-learning	1406
+machine-learning_system	1405
+require_simply	1408
+simply_require	1407
+create_require	1399
+require_create	1408
+increase_corresponding	1411
+corresponding_increase	1410
+work_increase	1417
+increase_work	1411
+increase_number	1411
+number_increase	1414
+number_man-hour	1414
+man-hour_number	1416
+require_work	1408
+work_require	1417
+require_generally	1408
+generally_require	1419
+increase_significant	1422
+significant_increase	1421
+require_increase	1408
+increase_require	1422
+process_annotation	1429
+annotation_process	1428
+complexity_process	1425
+process_complexity	1429
+sponsor_subfield	1458
+subfield_sponsor	1433
+subfield_nlp	1433
+nlp_subfield	1435
+nlp_devote	1435
+devote_nlp	1436
+devote_learn	1436
+learn_devote	1438
+know_approach	1441
+approach_know	1439
+know_be	1441
+be_know	1440
+learn_know	1438
+know_learn	1441
+learning_natural	1445
+natural_learning	1443
+learning_language	1445
+language_learning	1444
+know_learning	1441
+learning_know	1445
+learning_nll	1445
+nll_learning	1447
+conll_conference	1452
+conference_conll	1451
+signll_conll	1456
+conll_signll	1452
+body_peak	1455
+peak_body	1454
+conll_body	1452
+body_conll	1455
+know_signll	1441
+signll_know	1456
+sponsor_be	1458
+be_sponsor	1457
+sponsor_acl	1458
+acl_sponsor	1460
+sponsor_recognize	1458
+recognize_sponsor	1462
+recognize_also	1462
+also_recognize	1463
+recognize_link	1462
+link_recognize	1465
+linguistics_computational	1468
+computational_linguistics	1467
+recognize_linguistics	1462
+linguistics_recognize	1468
+acquisition_language	1471	1489
+language_acquisition	1470	1488
+linguistics_acquisition	1468
+acquisition_linguistics	1471
+be_aim	1482
+aim_be	1476
+language_computational	1479
+computational_language	1478
+aim_language	1476
+language_aim	1479
+language_learn	1479
+learn_language	1480
+learn_research	1480
+research_learn	1481
+overlap_be	1495
+be_overlap	1482
+be_understand	1482
+understand_be	1484
+understand_more	1484
+more_understand	1485
+acquisition_human	1489
+human_acquisition	1487
+understand_acquisition	1484
+acquisition_understand	1489
+acquisition_psycholinguistic	1489
+psycholinguistic_acquisition	1492
+overlap_nll	1495
+nll_overlap	1494
+field_related	1499
+related_field	1498
+overlap_field	1495
+field_overlap	1499
+psycholinguistics_computational	1502
+computational_psycholinguistics	1501
+field_psycholinguistics	1499
+psycholinguistics_field	1502

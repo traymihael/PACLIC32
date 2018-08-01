@@ -1,0 +1,270 @@
+Natural language processing
+natural language processing
+JJ NN NN
+root ROOT-0 processing-3	amod processing-3 Natural-1	nn processing-3 language-2
+
+From Wikipedia , the free encyclopedia
+from wikipedia , the free encyclopedia
+IN NNP , DT JJ NN
+root ROOT-0 From-1	pobj From-1 Wikipedia-2	det encyclopedia-6 the-4	amod encyclopedia-6 free-5	appos Wikipedia-2 encyclopedia-6
+
+Natural language processing -LRB- NLP -RRB- is a field of computer science , artificial intelligence , and linguistics concerned with the interactions between computers and human -LRB- natural -RRB- languages .
+natural language processing -lrb- nlp -rrb- be a field of computer science , artificial intelligence , and linguistics concern with the interaction between computer and human -lrb- natural -rrb- language .
+JJ NN NN -LRB- NN -RRB- VBZ DT NN IN NN NN , JJ NN , CC NNS VBN IN DT NNS IN NNS CC JJ -LRB- JJ -RRB- NNS .
+root ROOT-0 field-9	amod processing-3 Natural-1	nn processing-3 language-2	nsubj field-9 processing-3	appos processing-3 NLP-5	cop field-9 is-7	det field-9 a-8	nn science-12 computer-11	prep_of field-9 science-12	amod intelligence-15 artificial-14	conj_and field-9 intelligence-15	conj_and field-9 linguistics-18	vmod linguistics-18 concerned-19	det interactions-22 the-21	prep_with concerned-19 interactions-22	prep_between interactions-22 computers-24	amod languages-30 human-26	amod languages-30 natural-28	conj_and computers-24 languages-30
+
+As such , NLP is related to the area of humani-computer interaction .
+as such , nlp be relate to the area of humani-computer interaction .
+IN JJ , NN VBZ VBN TO DT NN IN JJ NN .
+root ROOT-0 related-6	prep_such_as related-6 such-2	nsubjpass related-6 NLP-4	auxpass related-6 is-5	det area-9 the-8	prep_to related-6 area-9	amod interaction-12 humani-computer-11	prep_of area-9 interaction-12
+
+Many challenges in NLP involve natural language understanding , that is , enabling computers to derive meaning from human or natural language input , and others involve natural language generation .
+many challenge in nlp involve natural language understanding , that be , enable computer to derive meaning from human or natural language input , and other involve natural language generation .
+JJ NNS IN NN VBP JJ NN NN , WDT VBZ , VBG NNS TO VB NN IN JJ CC JJ NN NN , CC NNS VBP JJ NN NN .
+root ROOT-0 involve-5	amod challenges-2 Many-1	nsubj involve-5 challenges-2	prep_in challenges-2 NLP-4	amod understanding-8 natural-6	nn understanding-8 language-7	nsubj enabling-13 understanding-8	nsubj is-11 that-10	rcmod understanding-8 is-11	dep involve-5 enabling-13	dobj enabling-13 computers-14	aux derive-16 to-15	vmod enabling-13 derive-16	dobj derive-16 meaning-17	amod input-23 human-19	conj_or human-19 natural-21	nn input-23 language-22	prep_from derive-16 input-23	nsubj involve-27 others-26	conj_and involve-5 involve-27	amod generation-30 natural-28	nn generation-30 language-29	dobj involve-27 generation-30
+
+History
+history
+NN
+root ROOT-0 History-1
+
+The history of NLP generally starts in the 1950s , although work can be found from earlier periods .
+the history of nlp generally start in the 1950s , although work can be find from earlier period .
+DT NN IN NNP RB VBZ IN DT CD , IN NN MD VB VBN IN JJR NNS .
+root ROOT-0 starts-6	det history-2 The-1	nsubj starts-6 history-2	prep_of history-2 NLP-4	advmod starts-6 generally-5	det 1950s-9 the-8	prep_in starts-6 1950s-9	mark found-15 although-11	nsubjpass found-15 work-12	aux found-15 can-13	auxpass found-15 be-14	advcl starts-6 found-15	amod periods-18 earlier-17	prep_from found-15 periods-18
+
+In 1950 , Alan Turing published an article titled `` Computing Machinery and Intelligence '' which proposed what is now called the Turing test as a criterion of intelligence .
+in 1950 , alan turing publish a article title `` computing machinery and intelligence '' which propose what be now call the turing test as a criterion of intelligence .
+IN CD , NNP NNP VBD DT NN VBN `` NNP NNP CC NNP '' WDT VBD WP VBZ RB VBN DT JJ NN IN DT NN IN NN .
+root ROOT-0 published-6	prep_in published-6 1950-2	nn Turing-5 Alan-4	nsubj published-6 Turing-5	det article-8 an-7	dobj published-6 article-8	vmod article-8 titled-9	nn Machinery-12 Computing-11	dep titled-9 Machinery-12	conj_and Machinery-12 Intelligence-14	nsubj proposed-17 which-16	rcmod article-8 proposed-17	nsubjpass called-21 what-18	auxpass called-21 is-19	advmod called-21 now-20	ccomp proposed-17 called-21	det test-24 the-22	amod test-24 Turing-23	dobj called-21 test-24	det criterion-27 a-26	prep_as called-21 criterion-27	prep_of criterion-27 intelligence-29
+
+The Georgetown experiment in 1954 involved fully automatic translation of more than sixty Russian sentences into English .
+the georgetown experiment in 1954 involve fully automatic translation of more than sixty russian sentence into english .
+DT NNP NN IN CD VBN RB JJ NN IN JJR IN CD JJ NNS IN NNP .
+root ROOT-0 involved-6	det experiment-3 The-1	nn experiment-3 Georgetown-2	nsubj involved-6 experiment-3	prep_in experiment-3 1954-5	advmod automatic-8 fully-7	amod translation-9 automatic-8	dobj involved-6 translation-9	mwe than-12 more-11	quantmod sixty-13 than-12	num sentences-15 sixty-13	amod sentences-15 Russian-14	prep_of translation-9 sentences-15	prep_into involved-6 English-17
+
+The authors claimed that within three or five years , machine translation would be a solved problem .
+the author claim that within three or five year , machine translation would be a solve problem .
+DT NNS VBD IN IN CD CC CD NNS , NN NN MD VB DT VBN NN .
+root ROOT-0 claimed-3	det authors-2 The-1	nsubj claimed-3 authors-2	mark problem-17 that-4	nn years-9 three-6	conj_or three-6 five-8	prep_within problem-17 years-9	nn translation-12 machine-11	nsubj problem-17 translation-12	aux problem-17 would-13	cop problem-17 be-14	det problem-17 a-15	amod problem-17 solved-16	ccomp claimed-3 problem-17
+
+However , real progress was much slower , and after the ALPAC report in 1966 , which found that ten year long research had failed to fulfill the expectations , funding for machine translation was dramatically reduced .
+however , real progress be much slower , and after the alpac report in 1966 , which find that ten year long research have fail to fulfill the expectation , fund for machine translation be dramatically reduce .
+RB , JJ NN VBD RB JJR , CC IN DT NNP NN IN CD , WDT VBD IN CD NN RB NN VBD VBN TO VB DT NNS , VBG IN NN NN VBD RB VBN .
+root ROOT-0 slower-7	advmod slower-7 However-1	amod progress-4 real-3	nsubj slower-7 progress-4	cop slower-7 was-5	advmod slower-7 much-6	det report-13 the-11	nn report-13 ALPAC-12	prep_after reduced-37 report-13	prep_in report-13 1966-15	nsubj found-18 which-17	rcmod report-13 found-18	mark failed-25 that-19	num year-21 ten-20	tmod failed-25 year-21	advmod research-23 long-22	nsubj failed-25 research-23	aux failed-25 had-24	ccomp found-18 failed-25	aux fulfill-27 to-26	xcomp failed-25 fulfill-27	det expectations-29 the-28	dobj fulfill-27 expectations-29	vmod reduced-37 funding-31	prep_for funding-31 machine-33	nsubjpass reduced-37 translation-34	auxpass reduced-37 was-35	advmod reduced-37 dramatically-36	conj_and slower-7 reduced-37
+
+Little further research in machine translation was conducted until the late 1980s , when the first statistical machine translation systems were developed .
+little further research in machine translation be conduct until the late 1980 , when the first statistical machine translation system be develop .
+JJ JJ NN IN NN NN VBD VBN IN DT JJ NNS , WRB DT JJ JJ NN NN NNS VBD VBN .
+root ROOT-0 conducted-8	amod research-3 Little-1	amod research-3 further-2	nsubjpass conducted-8 research-3	nn translation-6 machine-5	prep_in research-3 translation-6	auxpass conducted-8 was-7	det 1980s-12 the-10	amod 1980s-12 late-11	prep_until conducted-8 1980s-12	advmod developed-22 when-14	det machine-18 the-15	amod machine-18 first-16	amod machine-18 statistical-17	nsubjpass developed-22 machine-18	nn systems-20 translation-19	dep machine-18 systems-20	auxpass developed-22 were-21	rcmod 1980s-12 developed-22
+
+Some notably successful NLP systems developed in the 1960s were SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies , and ELIZA , a simulation of a Rogerian psychotherapist , written by Joseph Weizenbaum between 1964 to 1966 .
+some notably successful nlp system develop in the 1960 be shrdlu , a natural language system work in restricted `` block world '' with restricted vocabulary , and eliza , a simulation of a rogerian psychotherapist , write by joseph weizenbaum between 1964 to 1966 .
+DT RB JJ NN NNS VBN IN DT NNS VBD NNP , DT JJ NN NN VBG IN JJ `` NNS NNS '' IN JJ NNS , CC NNP , DT NN IN DT JJ NN , VBN IN NNP NNP IN CD TO CD .
+root ROOT-0 SHRDLU-11	det systems-5 Some-1	advmod systems-5 notably-2	amod systems-5 successful-3	nn systems-5 NLP-4	nsubj SHRDLU-11 systems-5	vmod systems-5 developed-6	det 1960s-9 the-8	prep_in developed-6 1960s-9	cop SHRDLU-11 were-10	det system-16 a-13	amod system-16 natural-14	nn system-16 language-15	appos SHRDLU-11 system-16	vmod system-16 working-17	prep_in working-17 restricted-19	nn worlds-22 blocks-21	dep restricted-19 worlds-22	amod vocabularies-26 restricted-25	prep_with working-17 vocabularies-26	nsubj written-38 ELIZA-29	det simulation-32 a-31	appos ELIZA-29 simulation-32	det psychotherapist-36 a-34	amod psychotherapist-36 Rogerian-35	prep_of simulation-32 psychotherapist-36	conj_and SHRDLU-11 written-38	nn Weizenbaum-41 Joseph-40	prep_by written-38 Weizenbaum-41	num 1966-45 1964-43	dep 1966-45 to-44	prep_between Weizenbaum-41 1966-45
+
+Using almost no information about human thought or emotion , ELIZA sometimes provided a startlingly human-like interaction .
+use almost no information about human thought or emotion , eliza sometimes provide a startlingly human-like interaction .
+VBG RB DT NN IN JJ NN CC NN , NN RB VBD DT RB JJ NN .
+root ROOT-0 provided-13	vmod provided-13 Using-1	advmod information-4 almost-2	neg information-4 no-3	dobj Using-1 information-4	amod thought-7 human-6	prep_about Using-1 thought-7	conj_or thought-7 emotion-9	nsubj provided-13 ELIZA-11	advmod provided-13 sometimes-12	det interaction-17 a-14	advmod human-like-16 startlingly-15	amod interaction-17 human-like-16	dobj provided-13 interaction-17
+
+When the `` patient '' exceeded the very small knowledge base , ELIZA might provide a generic response , for example , responding to `` My head hurts '' with `` Why do you say your head hurts ? ''
+when the `` patient '' exceed the very small knowledge base , eliza might provide a generic response , for example , respond to `` my head hurt '' with `` why do you say you head hurt ? ''
+WRB DT `` NN '' VBD DT RB JJ NN NN , NNP MD VB DT JJ NN , IN NN , VBG TO `` PRP$ NN VBZ '' IN `` WRB VBP PRP VB PRP$ NN VBZ . ''
+root ROOT-0 provide-15	advmod exceeded-6 When-1	det patient-4 the-2	nsubj exceeded-6 patient-4	advcl provide-15 exceeded-6	det base-11 the-7	advmod small-9 very-8	amod base-11 small-9	nn base-11 knowledge-10	dobj exceeded-6 base-11	nsubj provide-15 ELIZA-13	aux provide-15 might-14	det response-18 a-16	amod response-18 generic-17	dobj provide-15 response-18	prep_for hurts-28 example-21	csubj hurts-28 responding-23	poss head-27 My-26	prep_to responding-23 head-27	rcmod response-18 hurts-28	prep provide-15 with-30	advmod say-35 Why-32	aux say-35 do-33	nsubj say-35 you-34	dep with-30 say-35	poss head-37 your-36	nsubj hurts-38 head-37	ccomp say-35 hurts-38
+
+During the 1970s many programmers began to write ` conceptual ontologies ' , which structured real-world information into computer-understandable data .
+during the 1970s many programmer begin to write ` conceptual ontology ' , which structure real-world information into computer-understandable datum .
+IN DT CD JJ NNS VBD TO VB `` JJ NNS POS , WDT VBD JJ NN IN JJ NNS .
+root ROOT-0 began-6	det 1970s-3 the-2	prep_during began-6 1970s-3	amod programmers-5 many-4	nsubj began-6 programmers-5	aux write-8 to-7	xcomp began-6 write-8	dobj write-8 conceptual-10	poss conceptual-10 ontologies-11	nsubj structured-15 which-14	rcmod conceptual-10 structured-15	amod information-17 real-world-16	dobj structured-15 information-17	amod data-20 computer-understandable-19	prep_into structured-15 data-20
+
+Examples are MARGIE -LRB- Schank , 1975 -RRB- , SAM -LRB- Cullingford , 1978 -RRB- , PAM -LRB- Wilensky , 1978 -RRB- , TaleSpin -LRB- Meehan , 1976 -RRB- , QUALM -LRB- Lehnert , 1977 -RRB- , Politics -LRB- Carbonell , 1979 -RRB- , and Plot Units -LRB- Lehnert 1981 -RRB- .
+example be margie -lrb- schank , 1975 -rrb- , sam -lrb- cullingford , 1978 -rrb- , pam -lrb- wilensky , 1978 -rrb- , talespin -lrb- meehan , 1976 -rrb- , qualm -lrb- lehnert , 1977 -rrb- , politics -lrb- carbonell , 1979 -rrb- , and plot unit -lrb- lehnert 1981 -rrb- .
+NNS VBP NNP -LRB- NNP , CD -RRB- , NNP -LRB- NNP , CD -RRB- , NNS -LRB- NNP , CD -RRB- , NNP -LRB- NNP , CD -RRB- , NN -LRB- NNP , CD -RRB- , NN -LRB- NNP , CD -RRB- , CC NN NNS -LRB- NNP CD -RRB- .
+root ROOT-0 MARGIE-3	nsubj MARGIE-3 Examples-1	cop MARGIE-3 are-2	appos MARGIE-3 Schank-5	dep Schank-5 1975-7	appos MARGIE-3 SAM-10	appos SAM-10 Cullingford-12	dep Cullingford-12 1978-14	conj_and SAM-10 PAM-17	appos PAM-17 Wilensky-19	dep Wilensky-19 1978-21	conj_and SAM-10 TaleSpin-24	appos TaleSpin-24 Meehan-26	dep Meehan-26 1976-28	conj_and SAM-10 QUALM-31	appos QUALM-31 Lehnert-33	dep Lehnert-33 1977-35	conj_and SAM-10 Politics-38	appos Politics-38 Carbonell-40	dep Carbonell-40 1979-42	nn Units-47 Plot-46	conj_and SAM-10 Units-47	appos Units-47 Lehnert-49	num Lehnert-49 1981-50
+
+During this time , many chatterbots were written including PARRY , Racter , and Jabberwacky .
+during this time , many chatterbot be write include parry , racter , and jabberwacky .
+IN DT NN , JJ NNS VBD VBN VBG NNP , NNP , CC NNP .
+root ROOT-0 written-8	det time-3 this-2	prep_during written-8 time-3	amod chatterbots-6 many-5	nsubjpass written-8 chatterbots-6	auxpass written-8 were-7	prep_including written-8 PARRY-10	conj_and PARRY-10 Racter-12	conj_and PARRY-10 Jabberwacky-15
+
+Up to the 1980s , most NLP systems were based on complex sets of hand-written rules .
+up to the 1980 , most nlp system be base on complex set of hand-written rule .
+IN TO DT NNS , JJS NNS NNS VBD VBN IN JJ NNS IN JJ NNS .
+root ROOT-0 based-10	prep based-10 Up-1	pcomp Up-1 to-2	det 1980s-4 the-3	pobj to-2 1980s-4	amod systems-8 most-6	nn systems-8 NLP-7	nsubjpass based-10 systems-8	auxpass based-10 were-9	amod sets-13 complex-12	prep_on based-10 sets-13	amod rules-16 hand-written-15	prep_of sets-13 rules-16
+
+Starting in the late 1980s , however , there was a revolution in NLP with the introduction of machine learning algorithms for language processing .
+start in the late 1980 , however , there be a revolution in nlp with the introduction of machine learning algorithm for language processing .
+VBG IN DT JJ NNS , RB , EX VBD DT NN IN NN IN DT NN IN NN NN NNS IN NN NN .
+root ROOT-0 was-10	prep was-10 Starting-1	pcomp Starting-1 in-2	det 1980s-5 the-3	amod 1980s-5 late-4	pobj in-2 1980s-5	advmod was-10 however-7	expl was-10 there-9	det revolution-12 a-11	nsubj was-10 revolution-12	prep_in revolution-12 NLP-14	det introduction-17 the-16	prep_with was-10 introduction-17	nn algorithms-21 machine-19	nn algorithms-21 learning-20	prep_of introduction-17 algorithms-21	nn processing-24 language-23	prep_for algorithms-21 processing-24
+
+This was due to both the steady increase in computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing .
+this be due to both the steady increase in computational power result from moore 's law and the gradual lessen of the dominance of chomskyan theory of linguistics -lrb- e.g. transformational grammar -rrb- , whose theoretical underpinning discourage the sort of corpus linguistics that underlie the machine-learning approach to language processing .
+DT VBD JJ TO CC DT JJ NN IN JJ NN VBG IN NNP POS NN CC DT JJ VBG IN DT NN IN NNP NNS IN NNS -LRB- FW JJ NN -RRB- , WP$ JJ NNS VBD DT NN IN NN NNS WDT VBZ DT JJ NN TO NN NN .
+root ROOT-0 due-3	nsubj due-3 This-1	cop due-3 was-2	dep increase-8 both-5	det increase-8 the-6	amod increase-8 steady-7	prep_to due-3 increase-8	amod power-11 computational-10	prep_in due-3 power-11	vmod power-11 resulting-12	poss Law-16 Moore-14	prep_from resulting-12 Law-16	det gradual-19 the-18	conj_and Law-16 gradual-19	amod gradual-19 lessening-20	det dominance-23 the-22	prep_of gradual-19 dominance-23	nn theories-26 Chomskyan-25	prep_of dominance-23 theories-26	prep_of gradual-19 linguistics-28	dep linguistics-28 e.g.-30	amod grammar-32 transformational-31	dep e.g.-30 grammar-32	dep discouraged-38 whose-35	amod underpinnings-37 theoretical-36	nsubj discouraged-38 underpinnings-37	dep gradual-19 discouraged-38	det sort-40 the-39	dobj discouraged-38 sort-40	nn linguistics-43 corpus-42	prep_of sort-40 linguistics-43	nsubj underlies-45 that-44	rcmod sort-40 underlies-45	det approach-48 the-46	amod approach-48 machine-learning-47	dobj underlies-45 approach-48	nn processing-51 language-50	prep_to underlies-45 processing-51
+
+Some of the earliest-used machine learning algorithms , such as decision trees , produced systems of hard if-then rules similar to existing hand-written rules .
+some of the earliest-used machine learn algorithm , such as decision tree , produce system of hard if-then rule similar to exist hand-written rule .
+DT IN DT JJ NN VBG NNS , JJ IN NN NNS , VBD NNS IN JJ JJ NNS JJ TO VBG JJ NNS .
+root ROOT-0 produced-14	nsubj produced-14 Some-1	det machine-5 the-3	amod machine-5 earliest-used-4	prep_of Some-1 machine-5	vmod machine-5 learning-6	dobj learning-6 algorithms-7	nn trees-12 decision-11	prep_such_as algorithms-7 trees-12	dobj produced-14 systems-15	amod rules-19 hard-17	amod rules-19 if-then-18	prep_of systems-15 rules-19	amod rules-19 similar-20	amod rules-24 existing-22	amod rules-24 hand-written-23	prep_to similar-20 rules-24
+
+However , Part of speech tagging introduced the use of Hidden Markov Models to NLP , and increasingly , research has focused on statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data .
+however , part of speech tag introduce the use of hidden markov model to nlp , and increasingly , research have focus on statistical model , which make soft , probabilistic decision base on attach real-valued weight to the feature make up the input datum .
+RB , NN IN NN VBG VBN DT NN IN NNP NNP NNS TO NNP , CC RB , NN VBZ VBN IN JJ NNS , WDT VBP JJ , JJ NNS VBN IN VBG JJ NNS TO DT NNS VBG RP DT NN NNS .
+root ROOT-0 tagging-6	advmod tagging-6 However-1	nsubj tagging-6 Part-3	prep_of Part-3 speech-5	dep tagging-6 introduced-7	det use-9 the-8	dobj introduced-7 use-9	nn Models-13 Hidden-11	nn Models-13 Markov-12	prep_of use-9 Models-13	prep_to introduced-7 NLP-15	advmod focused-22 increasingly-18	nsubj focused-22 research-20	aux focused-22 has-21	conj_and tagging-6 focused-22	amod models-25 statistical-24	prep_on focused-22 models-25	nsubj make-28 which-27	rcmod models-25 make-28	amod decisions-32 soft-29	amod decisions-32 probabilistic-31	dobj make-28 decisions-32	prepc_based_on make-28 on-34	pcomp make-28 attaching-35	amod weights-37 real-valued-36	dobj attaching-35 weights-37	det features-40 the-39	prep_to attaching-35 features-40	vmod features-40 making-41	prt making-41 up-42	det data-45 the-43	nn data-45 input-44	dobj making-41 data-45
+
+The cache language models upon which many speech recognition systems now rely are examples of such statistical models .
+the cache language model upon which many speech recognition system now rely be example of such statistical model .
+DT NN NN NNS IN WDT JJ NN NN NNS RB VBP VBP NNS IN JJ JJ NNS .
+root ROOT-0 examples-14	det models-4 The-1	nn models-4 cache-2	nn models-4 language-3	nsubj examples-14 models-4	dobj rely-12 which-6	amod systems-10 many-7	nn systems-10 speech-8	nn systems-10 recognition-9	nsubj rely-12 systems-10	advmod rely-12 now-11	prepc_upon models-4 rely-12	cop examples-14 are-13	amod models-18 such-16	amod models-18 statistical-17	prep_of examples-14 models-18
+
+Such models are generally more robust when given unfamiliar input , especially input that contains errors -LRB- as is very common for real-world data -RRB- , and produce more reliable results when integrated into a larger system comprising multiple subtasks .
+such model be generally more robust when give unfamiliar input , especially input that contain error -lrb- as be very common for real-world datum -rrb- , and produce more reliable result when integrate into a larger system comprise multiple subtask .
+JJ NNS VBP RB RBR JJ WRB VBN JJ NN , RB NN WDT VBZ NNS -LRB- RB VBZ RB JJ IN JJ NNS -RRB- , CC VB JJR JJ NNS WRB VBN IN DT JJR NN VBG JJ NNS .
+root ROOT-0 robust-6	amod models-2 Such-1	nsubj robust-6 models-2	cop robust-6 are-3	advmod robust-6 generally-4	advmod robust-6 more-5	advmod given-8 when-7	ccomp robust-6 given-8	amod input-10 unfamiliar-9	dobj given-8 input-10	advmod input-13 especially-12	appos input-10 input-13	nsubj contains-15 that-14	rcmod input-13 contains-15	dobj contains-15 errors-16	advmod common-21 as-18	cop common-21 is-19	advmod common-21 very-20	dep errors-16 common-21	amod data-24 real-world-23	prep_for common-21 data-24	conj_and given-8 produce-28	amod results-31 more-29	amod results-31 reliable-30	dobj produce-28 results-31	advmod integrated-33 when-32	advcl produce-28 integrated-33	det system-37 a-35	amod system-37 larger-36	prep_into integrated-33 system-37	vmod system-37 comprising-38	amod subtasks-40 multiple-39	dobj comprising-38 subtasks-40
+
+Many of the notable early successes occurred in the field of machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed .
+many of the notable early success occur in the field of machine translation , due especially to work at ibm research , where successively more complicated statistical model be develop .
+JJ IN DT JJ JJ NNS VBD IN DT NN IN NN NN , JJ RB TO VB IN NNP NNP , WRB RB RBR JJ JJ NNS VBD VBN .
+root ROOT-0 occurred-7	nsubj occurred-7 Many-1	det successes-6 the-3	amod successes-6 notable-4	amod successes-6 early-5	prep_of Many-1 successes-6	det field-10 the-9	prep_in occurred-7 field-10	nn translation-13 machine-12	prep_of field-10 translation-13	amod translation-13 due-15	advmod due-15 especially-16	aux work-18 to-17	xcomp due-15 work-18	nn Research-21 IBM-20	prep_at work-18 Research-21	advmod developed-30 where-23	advmod developed-30 successively-24	advmod complicated-26 more-25	amod models-28 complicated-26	amod models-28 statistical-27	nsubjpass developed-30 models-28	auxpass developed-30 were-29	rcmod translation-13 developed-30
+
+These systems were able to take advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government .
+these system be able to take advantage of exist multilingual textual corpus that have be produce by the parliament of canada and the european union as a result of law call for the translation of all governmental proceedings into all official language of the corresponding system of government .
+DT NNS VBD JJ TO VB NN IN VBG JJ JJ NN WDT VBD VBN VBN IN DT NNP IN NNP CC DT NNP NNP IN DT NN IN NNS VBG IN DT NN IN DT JJ NNS IN DT JJ NNS IN DT JJ NNS IN NN .
+root ROOT-0 able-4	det systems-2 These-1	nsubj able-4 systems-2	cop able-4 were-3	aux take-6 to-5	xcomp able-4 take-6	dobj take-6 advantage-7	amod corpora-12 existing-9	amod corpora-12 multilingual-10	amod corpora-12 textual-11	prep_of advantage-7 corpora-12	nsubjpass produced-16 that-13	aux produced-16 had-14	auxpass produced-16 been-15	rcmod corpora-12 produced-16	det Parliament-19 the-18	agent produced-16 Parliament-19	prep_of Parliament-19 Canada-21	det Union-25 the-23	nn Union-25 European-24	conj_and Canada-21 Union-25	det result-28 a-27	prep_as produced-16 result-28	prep_of result-28 laws-30	vmod laws-30 calling-31	det translation-34 the-33	prep_for calling-31 translation-34	det proceedings-38 all-36	amod proceedings-38 governmental-37	prep_of translation-34 proceedings-38	det languages-42 all-40	amod languages-42 official-41	prep_into calling-31 languages-42	det systems-46 the-44	amod systems-46 corresponding-45	prep_of languages-42 systems-46	prep_of systems-46 government-48
+
+However , most other systems depended on corpora specifically developed for the tasks implemented by these systems , which was -LRB- and often continues to be -RRB- a major limitation in the success of these systems .
+however , most other system depend on corpus specifically develop for the task implement by these system , which be -lrb- and often continue to be -rrb- a major limitation in the success of these system .
+RB , RBS JJ NNS VBD IN NN RB VBD IN DT NNS VBN IN DT NNS , WDT VBD -LRB- CC RB VBZ TO VB -RRB- DT JJ NN IN DT NN IN DT NNS .
+root ROOT-0 developed-10	advmod depended-6 However-1	advmod systems-5 most-3	amod systems-5 other-4	nsubj depended-6 systems-5	dep developed-10 depended-6	prep_on depended-6 corpora-8	advmod developed-10 specifically-9	det tasks-13 the-12	prep_for developed-10 tasks-13	vmod tasks-13 implemented-14	det systems-17 these-16	agent implemented-14 systems-17	nsubj was-20 which-19	rcmod systems-17 was-20	cc continues-24 and-22	advmod continues-24 often-23	dep was-20 continues-24	aux be-26 to-25	xcomp continues-24 be-26	det limitation-30 a-28	amod limitation-30 major-29	nsubj developed-10 limitation-30	det success-33 the-32	prep_in limitation-30 success-33	det systems-36 these-35	prep_of success-33 systems-36
+
+As a result , a great deal of research has gone into methods of more effectively learning from limited amounts of data .
+as a result , a great deal of research have go into method of more effectively learn from limited amount of datum .
+IN DT NN , DT JJ NN IN NN VBZ VBN IN NNS IN JJR RB VBG IN JJ NNS IN NNS .
+root ROOT-0 gone-11	det result-3 a-2	prep_as gone-11 result-3	det deal-7 a-5	amod deal-7 great-6	nsubj gone-11 deal-7	prep_of deal-7 research-9	aux gone-11 has-10	prep_into gone-11 methods-13	prep_of methods-13 more-15	advmod learning-17 effectively-16	vmod more-15 learning-17	amod amounts-20 limited-19	prep_from learning-17 amounts-20	prep_of amounts-20 data-22
+
+Recent research has increasingly focused on unsupervised and semi-supervised learning algorithms .
+recent research have increasingly focus on unsupervised and semi-supervised learning algorithm .
+JJ NN VBZ RB VBN IN JJ CC JJ NN NNS .
+root ROOT-0 focused-5	amod research-2 Recent-1	nsubj focused-5 research-2	aux focused-5 has-3	advmod focused-5 increasingly-4	amod algorithms-11 unsupervised-7	conj_and unsupervised-7 semi-supervised-9	nn algorithms-11 learning-10	prep_on focused-5 algorithms-11
+
+Such algorithms are able to learn from data that has not been hand-annotated with the desired answers , or using a combination of annotated and non-annotated data .
+such algorithm be able to learn from datum that have not be hand-annotate with the desire answer , or use a combination of annotated and non-annotated datum .
+JJ NNS VBP JJ TO VB IN NNS WDT VBZ RB VBN VBN IN DT VBN NNS , CC VBG DT NN IN JJ CC JJ NNS .
+root ROOT-0 able-4	amod algorithms-2 Such-1	nsubj able-4 algorithms-2	cop able-4 are-3	aux learn-6 to-5	dep able-4 learn-6	prep_from learn-6 data-8	nsubjpass hand-annotated-13 that-9	aux hand-annotated-13 has-10	neg hand-annotated-13 not-11	auxpass hand-annotated-13 been-12	rcmod data-8 hand-annotated-13	det answers-17 the-15	amod answers-17 desired-16	prep_with hand-annotated-13 answers-17	conj_or learn-6 using-20	det combination-22 a-21	dobj using-20 combination-22	amod data-27 annotated-24	conj_and annotated-24 non-annotated-26	prep_of combination-22 data-27
+
+Generally , this task is much more difficult than supervised learning , and typically produces less accurate results for a given amount of input data .
+generally , this task be much more difficult than supervised learning , and typically produce less accurate result for a give amount of input datum .
+RB , DT NN VBZ RB RBR JJ IN JJ NN , CC RB VBZ JJR JJ NNS IN DT VBN NN IN NN NNS .
+root ROOT-0 difficult-8	advmod difficult-8 Generally-1	det task-4 this-3	nsubj difficult-8 task-4	cop difficult-8 is-5	advmod difficult-8 much-6	advmod difficult-8 more-7	amod learning-11 supervised-10	prep_than difficult-8 learning-11	advmod produces-15 typically-14	conj_and difficult-8 produces-15	dep accurate-17 less-16	amod results-18 accurate-17	dobj produces-15 results-18	det amount-22 a-20	amod amount-22 given-21	prep_for results-18 amount-22	nn data-25 input-24	prep_of amount-22 data-25
+
+However , there is an enormous amount of non-annotated data available -LRB- including , among other things , the entire content of the World Wide Web -RRB- , which can often make up for the inferior results .
+however , there be a enormous amount of non-annotated datum available -lrb- include , among other thing , the entire content of the world wide web -rrb- , which can often make up for the inferior result .
+RB , EX VBZ DT JJ NN IN JJ NNS JJ -LRB- VBG , IN JJ NNS , DT JJ NN IN DT NNP NN NN -RRB- , WDT MD RB VB RP IN DT JJ NNS .
+root ROOT-0 is-4	advmod is-4 However-1	expl is-4 there-3	det amount-7 an-5	amod amount-7 enormous-6	nsubj is-4 amount-7	amod data-10 non-annotated-9	prep_of amount-7 data-10	amod data-10 available-11	dep amount-7 including-13	amod things-17 other-16	prep_among including-13 things-17	det content-21 the-19	amod content-21 entire-20	dobj including-13 content-21	det Web-26 the-23	nn Web-26 World-24	nn Web-26 Wide-25	prep_of content-21 Web-26	nsubj make-32 which-29	aux make-32 can-30	advmod make-32 often-31	rcmod amount-7 make-32	prt make-32 up-33	det results-37 the-35	amod results-37 inferior-36	prep_for make-32 results-37
+
+NLP using machine learning
+nlp use machine learning
+NN VBG NN NN
+root ROOT-0 NLP-1	dep NLP-1 using-2	nn learning-4 machine-3	dobj using-2 learning-4
+
+Modern NLP algorithms are based on machine learning , especially statistical machine learning .
+modern nlp algorithm be base on machine learning , especially statistical machine learning .
+NNP NNP NNS VBP VBN IN NN NN , RB JJ NN NN .
+root ROOT-0 based-5	nn algorithms-3 Modern-1	nn algorithms-3 NLP-2	nsubjpass based-5 algorithms-3	auxpass based-5 are-4	nn learning-8 machine-7	prep_on based-5 learning-8	advmod learning-8 especially-10	amod learning-13 statistical-11	nn learning-13 machine-12	dep learning-8 learning-13
+
+The paradigm of machine learning is different from that of most prior attempts at language processing .
+the paradigm of machine learning be different from that of most prior attempt at language processing .
+DT NN IN NN NN VBZ JJ IN DT IN RBS JJ NNS IN NN NN .
+root ROOT-0 different-7	det paradigm-2 The-1	nsubj different-7 paradigm-2	nn learning-5 machine-4	prep_of paradigm-2 learning-5	cop different-7 is-6	prep_from different-7 that-9	advmod attempts-13 most-11	amod attempts-13 prior-12	prep_of that-9 attempts-13	nn processing-16 language-15	prep_at different-7 processing-16
+
+Prior implementations of language-processing tasks typically involved the direct hand coding of large sets of rules .
+prior implementation of language-processing task typically involve the direct hand coding of large set of rule .
+RB NNS IN JJ NNS RB VBD DT JJ NN NN IN JJ NNS IN NNS .
+root ROOT-0 involved-7	advmod involved-7 Prior-1	nsubj involved-7 implementations-2	amod tasks-5 language-processing-4	prep_of implementations-2 tasks-5	advmod involved-7 typically-6	det coding-11 the-8	amod coding-11 direct-9	nn coding-11 hand-10	dobj involved-7 coding-11	amod sets-14 large-13	prep_of coding-11 sets-14	prep_of sets-14 rules-16
+
+The machine-learning paradigm calls instead for using general learning algorithms - often , although not always , grounded in statistical inference - to automatically learn such rules through the analysis of large corpora of typical real-world examples .
+the machine-learning paradigm call instead for use general learning algorithm - often , although not always , ground in statistical inference - to automatically learn such rule through the analysis of large corpus of typical real-world example .
+DT JJ NN VBZ RB IN VBG JJ NN NNS : RB , IN RB RB , VBN IN JJ NN : TO RB VB JJ NNS IN DT NN IN JJ NN IN JJ JJ NNS .
+root ROOT-0 calls-4	det paradigm-3 The-1	amod paradigm-3 machine-learning-2	nsubj calls-4 paradigm-3	advmod for-6 instead-5	dep calls-4 for-6	pcomp for-6 using-7	amod algorithms-10 general-8	nn algorithms-10 learning-9	dobj using-7 algorithms-10	advmod algorithms-10 often-12	mark not-15 although-14	parataxis using-7 not-15	dep not-15 always-16	dep using-7 grounded-18	amod inference-21 statistical-20	prep_in grounded-18 inference-21	aux learn-25 to-23	advmod learn-25 automatically-24	dep for-6 learn-25	amod rules-27 such-26	dobj learn-25 rules-27	det analysis-30 the-29	prep_through learn-25 analysis-30	amod corpora-33 large-32	prep_of analysis-30 corpora-33	amod examples-37 typical-35	amod examples-37 real-world-36	prep_of corpora-33 examples-37
+
+A corpus -LRB- plural , `` corpora '' -RRB- is a set of documents -LRB- or sometimes , individual sentences -RRB- that have been hand-annotated with the correct values to be learned .
+a corpus -lrb- plural , `` corpus '' -rrb- be a set of document -lrb- or sometimes , individual sentence -rrb- that have be hand-annotated with the correct value to be learn .
+DT NN -LRB- NN , `` NN '' -RRB- VBZ DT NN IN NNS -LRB- CC RB , JJ NNS -RRB- WDT VBP VBN JJ IN DT JJ NNS TO VB VBN .
+root ROOT-0 set-12	det corpus-2 A-1	nsubj set-12 corpus-2	dep corpus-2 plural-4	appos plural-4 corpora-7	cop set-12 is-10	det set-12 a-11	prep_of set-12 documents-14	cc sentences-20 or-16	dep sentences-20 sometimes-17	amod sentences-20 individual-19	appos documents-14 sentences-20	nsubj hand-annotated-25 that-22	aux hand-annotated-25 have-23	cop hand-annotated-25 been-24	rcmod documents-14 hand-annotated-25	det values-29 the-27	amod values-29 correct-28	prep_with hand-annotated-25 values-29	aux learned-32 to-30	auxpass learned-32 be-31	xcomp hand-annotated-25 learned-32
+
+Many different classes of machine learning algorithms have been applied to NLP tasks .
+many different class of machine learning algorithm have be apply to nlp task .
+JJ JJ NNS IN NN NN NNS VBP VBN VBN TO NN NNS .
+root ROOT-0 applied-10	amod classes-3 Many-1	amod classes-3 different-2	nsubjpass applied-10 classes-3	nn algorithms-7 machine-5	nn algorithms-7 learning-6	prep_of classes-3 algorithms-7	aux applied-10 have-8	auxpass applied-10 been-9	nn tasks-13 NLP-12	prep_to applied-10 tasks-13
+
+These algorithms take as input a large set of `` features '' that are generated from the input data .
+these algorithm take as input a large set of `` feature '' that be generate from the input datum .
+DT NNS VBP RB NN DT JJ NN IN `` NNS '' WDT VBP VBN IN DT NN NNS .
+root ROOT-0 take-3	det algorithms-2 These-1	nsubj take-3 algorithms-2	advmod input-5 as-4	iobj take-3 input-5	det set-8 a-6	amod set-8 large-7	dobj take-3 set-8	prep_of set-8 features-11	nsubjpass generated-15 that-13	auxpass generated-15 are-14	rcmod features-11 generated-15	det data-19 the-17	nn data-19 input-18	prep_from generated-15 data-19
+
+Some of the earliest-used algorithms , such as decision trees , produced systems of hard if-then rules similar to the systems of hand-written rules that were then common .
+some of the earliest-used algorithm , such as decision tree , produce system of hard if-then rule similar to the system of hand-written rule that be then common .
+DT IN DT JJ NNS , JJ IN NN NNS , VBD NNS IN JJ JJ NNS JJ TO DT NNS IN JJ NNS WDT VBD RB JJ .
+root ROOT-0 produced-12	nsubj produced-12 Some-1	det algorithms-5 the-3	amod algorithms-5 earliest-used-4	prep_of Some-1 algorithms-5	nn trees-10 decision-9	prep_such_as Some-1 trees-10	dobj produced-12 systems-13	amod rules-17 hard-15	amod rules-17 if-then-16	prep_of systems-13 rules-17	amod rules-17 similar-18	det systems-21 the-20	prep_to similar-18 systems-21	amod rules-24 hand-written-23	prep_of systems-21 rules-24	nsubj common-28 that-25	cop common-28 were-26	advmod common-28 then-27	rcmod systems-21 common-28
+
+Increasingly , however , research has focused on statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to each input feature .
+increasingly , however , research have focus on statistical model , which make soft , probabilistic decision base on attach real-valued weight to each input feature .
+RB , RB , NN VBZ VBN IN JJ NNS , WDT VBP JJ , JJ NNS VBN IN VBG JJ NNS TO DT NN NN .
+root ROOT-0 focused-7	advmod focused-7 Increasingly-1	advmod focused-7 however-3	nsubj focused-7 research-5	aux focused-7 has-6	amod models-10 statistical-9	prep_on focused-7 models-10	nsubj make-13 which-12	rcmod models-10 make-13	amod decisions-17 soft-14	amod decisions-17 probabilistic-16	dobj make-13 decisions-17	prepc_based_on make-13 on-19	pcomp make-13 attaching-20	amod weights-22 real-valued-21	dobj attaching-20 weights-22	det feature-26 each-24	nn feature-26 input-25	prep_to attaching-20 feature-26
+
+Such models have the advantage that they can express the relative certainty of many different possible answers rather than only one , producing more reliable results when such a model is included as a component of a larger system .
+such model have the advantage that they can express the relative certainty of many different possible answer rather than only one , produce more reliable result when such a model be include as a component of a larger system .
+JJ NNS VBP DT NN IN PRP MD VB DT JJ NN IN JJ JJ JJ NNS RB IN RB CD , VBG JJR JJ NNS WRB PDT DT NN VBZ VBN IN DT NN IN DT JJR NN .
+root ROOT-0 have-3	amod models-2 Such-1	nsubj have-3 models-2	det advantage-5 the-4	dobj have-3 advantage-5	mark express-9 that-6	nsubj express-9 they-7	aux express-9 can-8	ccomp have-3 express-9	det certainty-12 the-10	amod certainty-12 relative-11	dobj express-9 certainty-12	amod answers-17 many-14	amod answers-17 different-15	amod answers-17 possible-16	prep_of certainty-12 answers-17	advmod one-21 only-20	conj_negcc answers-17 one-21	xcomp have-3 producing-23	amod results-26 more-24	amod results-26 reliable-25	dobj producing-23 results-26	advmod included-32 when-27	predet model-30 such-28	det model-30 a-29	nsubjpass included-32 model-30	auxpass included-32 is-31	advcl producing-23 included-32	det component-35 a-34	prep_as included-32 component-35	det system-39 a-37	amod system-39 larger-38	prep_of component-35 system-39
+
+Systems based on machine-learning algorithms have many advantages over hand-produced rules :
+systems base on machine-learning algorithm have many advantage over hand-produced rule :
+NNPS VBN IN JJ NNS VBP JJ NNS IN JJ NNS :
+root ROOT-0 have-6	nsubj have-6 Systems-1	prepc_based_on Systems-1 on-3	amod algorithms-5 machine-learning-4	pobj Systems-1 algorithms-5	amod advantages-8 many-7	dobj have-6 advantages-8	amod rules-11 hand-produced-10	prep_over advantages-8 rules-11
+
+The learning procedures used during machine learning automatically focus on the most common cases , whereas when writing rules by hand it is often not obvious at all where the effort should be directed .
+the learning procedure use during machine learning automatically focus on the most common case , whereas when write rule by hand it be often not obvious at all where the effort should be direct .
+DT NN NNS VBN IN NN NN RB VB IN DT RBS JJ NNS , IN WRB VBG NNS IN NN PRP VBZ RB RB JJ IN DT WRB DT NN MD VB VBN .
+root ROOT-0 obvious-26	det procedures-3 The-1	nn procedures-3 learning-2	nsubj focus-9 procedures-3	vmod procedures-3 used-4	nn learning-7 machine-6	prep_during used-4 learning-7	advmod focus-9 automatically-8	dep obvious-26 focus-9	det cases-14 the-11	advmod cases-14 most-12	amod cases-14 common-13	prep_on focus-9 cases-14	mark when-17 whereas-16	dep cases-14 when-17	xcomp focus-9 writing-18	dobj writing-18 rules-19	prep_by writing-18 hand-21	nsubj obvious-26 it-22	cop obvious-26 is-23	advmod obvious-26 often-24	neg obvious-26 not-25	prep_at obvious-26 all-28	advmod directed-34 where-29	det effort-31 the-30	nsubjpass directed-34 effort-31	aux directed-34 should-32	auxpass directed-34 be-33	advcl obvious-26 directed-34
+
+Automatic learning procedures can make use of statistical inference algorithms to produce models that are robust to unfamiliar input -LRB- e.g. containing words or structures that have not been seen before -RRB- and to erroneous input -LRB- e.g. with misspelled words or words accidentally omitted -RRB- .
+automatic learn procedure can make use of statistical inference algorithm to produce model that be robust to unfamiliar input -lrb- e.g. contain word or structure that have not be see before -rrb- and to erroneous input -lrb- e.g. with misspell word or word accidentally omit -rrb- .
+NNP VBG NNS MD VB NN IN JJ NN NNS TO VB NNS WDT VBP JJ TO JJ NN -LRB- FW VBG NNS CC NNS WDT VBP RB VBN VBN IN -RRB- CC TO JJ NN -LRB- FW IN VBN NNS CC NNS RB VBN -RRB- .
+root ROOT-0 make-5	nsubj make-5 Automatic-1	vmod Automatic-1 learning-2	dobj learning-2 procedures-3	aux make-5 can-4	dobj make-5 use-6	amod algorithms-10 statistical-8	nn algorithms-10 inference-9	prep_of use-6 algorithms-10	aux produce-12 to-11	vmod make-5 produce-12	dobj produce-12 models-13	nsubj robust-16 that-14	cop robust-16 are-15	rcmod models-13 robust-16	amod input-19 unfamiliar-18	prep_to robust-16 input-19	dep robust-16 e.g.-21	dep e.g.-21 containing-22	dobj containing-22 words-23	conj_or words-23 structures-25	nsubjpass seen-30 that-26	aux seen-30 have-27	neg seen-30 not-28	auxpass seen-30 been-29	rcmod words-23 seen-30	prep seen-30 before-31	amod input-36 erroneous-35	conj_and input-19 input-36	dep input-36 e.g.-38	prep e.g.-38 with-39	vmod e.g.-38 misspelled-40	dobj misspelled-40 words-41	conj_or words-41 words-43	advmod omitted-45 accidentally-44	vmod words-41 omitted-45
+
+Generally , handling such input gracefully with hand-written rules -- or more generally , creating systems of hand-written rules that make soft decisions -- extremely difficult , error-prone and time-consuming .
+generally , handle such input gracefully with hand-written rule -- or more generally , create system of hand-written rule that make soft decision -- extremely difficult , error-prone and time-consuming .
+RB , VBG JJ NN RB IN JJ NNS : CC JJR RB , VBG NNS IN JJ NNS WDT VBP JJ NNS : RB JJ , JJ CC JJ .
+root ROOT-0 handling-3	advmod handling-3 Generally-1	amod input-5 such-4	dobj handling-3 input-5	advmod input-5 gracefully-6	amod rules-9 hand-written-8	prep_with gracefully-6 rules-9	conj_or gracefully-6 more-12	advmod handling-3 generally-13	parataxis handling-3 creating-15	dobj creating-15 systems-16	amod rules-19 hand-written-18	prep_of systems-16 rules-19	nsubj make-21 that-20	rcmod systems-16 make-21	amod decisions-23 soft-22	dobj make-21 decisions-23	advmod difficult-26 extremely-25	amod decisions-23 difficult-26	conj_and difficult-26 error-prone-28	conj_and difficult-26 time-consuming-30
+
+Systems based on automatically learning the rules can be made more accurate simply by supplying more input data .
+systems base on automatically learn the rule can be make more accurate simply by supply more input datum .
+NNPS VBN IN RB VBG DT NNS MD VB VBN RBR JJ RB IN VBG JJR NN NNS .
+root ROOT-0 made-10	nsubjpass made-10 Systems-1	vmod Systems-1 based-2	advmod learning-5 automatically-4	prepc_on based-2 learning-5	det rules-7 the-6	dobj learning-5 rules-7	aux made-10 can-8	auxpass made-10 be-9	advmod accurate-12 more-11	xcomp made-10 accurate-12	advmod made-10 simply-13	agent made-10 supplying-15	amod data-18 more-16	nn data-18 input-17	dobj supplying-15 data-18
+
+However , systems based on hand-written rules can only be made more accurate by increasing the complexity of the rules , which is a much more difficult task .
+however , system base on hand-written rule can only be make more accurate by increase the complexity of the rule , which be a much more difficult task .
+RB , NNS VBN IN JJ NNS MD RB VB VBN RBR JJ IN VBG DT NN IN DT NNS , WDT VBZ DT RB RBR JJ NN .
+root ROOT-0 made-11	advmod made-11 However-1	nsubjpass made-11 systems-3	prepc_based_on systems-3 on-5	amod rules-7 hand-written-6	pobj systems-3 rules-7	aux made-11 can-8	advmod made-11 only-9	auxpass made-11 be-10	advmod accurate-13 more-12	xcomp made-11 accurate-13	agent made-11 increasing-15	det complexity-17 the-16	dobj increasing-15 complexity-17	det rules-20 the-19	prep_of complexity-17 rules-20	nsubj task-28 which-22	cop task-28 is-23	det task-28 a-24	advmod difficult-27 much-25	advmod difficult-27 more-26	amod task-28 difficult-27	rcmod rules-20 task-28
+
+In particular , there is a limit to the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable .
+in particular , there be a limit to the complexity of system base on hand-crafted rule , beyond which the system become more and more unmanageable .
+IN JJ , EX VBZ DT NN TO DT NN IN NNS VBN IN JJ NNS , IN WDT DT NNS VBP RBR CC RBR JJ .
+root ROOT-0 is-5	prep_in is-5 particular-2	expl is-5 there-4	det limit-7 a-6	nsubj is-5 limit-7	det complexity-10 the-9	prep_to limit-7 complexity-10	prep_of complexity-10 systems-12	vmod systems-12 based-13	amod rules-16 hand-crafted-15	prep_on based-13 rules-16	prep_beyond become-22 which-19	det systems-21 the-20	nsubj become-22 systems-21	rcmod rules-16 become-22	advmod unmanageable-26 more-23	conj_and more-23 more-25	acomp become-22 unmanageable-26
+
+However , creating more data to input to machine-learning systems simply requires a corresponding increase in the number of man-hours worked , generally without significant increases in the complexity of the annotation process .
+however , create more datum to input to machine-learning system simply require a corresponding increase in the number of man-hour work , generally without significant increase in the complexity of the annotation process .
+RB , VBG JJR NNS TO NN TO JJ NNS RB VBZ DT JJ NN IN DT NN IN NN VBD , RB IN JJ NNS IN DT NN IN DT NN NN .
+root ROOT-0 creating-3	advmod creating-3 However-1	amod data-5 more-4	dobj creating-3 data-5	prep_to creating-3 input-7	amod systems-10 machine-learning-9	prep_to creating-3 systems-10	advmod requires-12 simply-11	dep creating-3 requires-12	det increase-15 a-13	amod increase-15 corresponding-14	nsubj worked-21 increase-15	det number-18 the-17	prep_in increase-15 number-18	prep_of number-18 man-hours-20	ccomp requires-12 worked-21	advmod requires-12 generally-23	amod increases-26 significant-25	prep_without requires-12 increases-26	det complexity-29 the-28	prep_in increases-26 complexity-29	det process-33 the-31	nn process-33 annotation-32	prep_of complexity-29 process-33
+
+The subfield of NLP devoted to learning approaches is known as Natural Language Learning -LRB- NLL -RRB- and its conference CoNLL and peak body SIGNLL are sponsored by ACL , recognizing also their links with Computational Linguistics and Language Acquisition .
+the subfield of nlp devote to learn approach be know as natural language learning -lrb- nll -rrb- and its conference conll and peak body signll be sponsor by acl , recognize also they link with computational linguistics and language acquisition .
+DT NN IN NNP VBN IN VBG NNS VBZ VBN IN JJ NN NNP -LRB- NNP -RRB- CC PRP$ NN NN CC NN NN NNP VBP VBN IN NN , VBG RB PRP$ NNS IN JJ NNS CC NNP NNP .
+root ROOT-0 sponsored-27	det subfield-2 The-1	nsubjpass sponsored-27 subfield-2	prep_of subfield-2 NLP-4	vmod NLP-4 devoted-5	prepc_to devoted-5 learning-7	nsubjpass known-10 approaches-8	auxpass known-10 is-9	dep learning-7 known-10	amod Learning-14 Natural-12	nn Learning-14 Language-13	prep_as known-10 Learning-14	appos Learning-14 NLL-16	poss CoNLL-21 its-19	nn CoNLL-21 conference-20	dep SIGNLL-25 CoNLL-21	nn body-24 peak-23	conj_and CoNLL-21 body-24	conj_and known-10 SIGNLL-25	auxpass sponsored-27 are-26	agent sponsored-27 ACL-29	xcomp sponsored-27 recognizing-31	advmod recognizing-31 also-32	poss links-34 their-33	dobj recognizing-31 links-34	amod Linguistics-37 Computational-36	prep_with recognizing-31 Linguistics-37	nn Acquisition-40 Language-39	conj_and Linguistics-37 Acquisition-40
+
+When the aims of computational language learning research is to understand more about human language acquisition , or psycholinguistics , NLL overlaps into the related field of Computational Psycholinguistics .
+when the aim of computational language learn research be to understand more about human language acquisition , or psycholinguistic , nll overlap into the related field of computational psycholinguistics .
+WRB DT NNS IN JJ NN VBG NN VBZ TO VB JJR IN JJ NN NN , CC NNS , NN VBZ IN DT JJ NN IN NNP NNPS .
+root ROOT-0 overlaps-22	advmod is-9 When-1	det aims-3 the-2	nsubj is-9 aims-3	amod language-6 computational-5	prep_of aims-3 language-6	vmod language-6 learning-7	dobj learning-7 research-8	advcl overlaps-22 is-9	aux understand-11 to-10	xcomp is-9 understand-11	dobj understand-11 more-12	amod acquisition-16 human-14	nn acquisition-16 language-15	prep_about understand-11 acquisition-16	conj_or acquisition-16 psycholinguistics-19	nsubj overlaps-22 NLL-21	det field-26 the-24	amod field-26 related-25	prep_into overlaps-22 field-26	nn Psycholinguistics-29 Computational-28	prep_of field-26 Psycholinguistics-29
+
