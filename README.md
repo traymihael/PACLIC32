@@ -33,7 +33,7 @@ It is expected that the representations of low frequency words will remain in th
 
 
 - Lexical Substitution Task
-<src="https://i.imgur.com/vqgNcUq.png">
+<img width="450" alt="default" src="https://i.imgur.com/vqgNcUq.png">
 
 
 
