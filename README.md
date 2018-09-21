@@ -25,7 +25,7 @@ It is expected that the representations of low frequency words will remain in th
 
 
 ## Proposed Method
-<img width="237" alt="default" src="file:///home/ashihara/PycharmProjects/picture/algorithm.png">
+<img width="237" alt="default" src="https://i.imgur.com/M8Vcpf1.png">
 <img width="237" alt="default" src="file:///home/ashihara/PycharmProjects/picture/training.png">
 
 ## Result
