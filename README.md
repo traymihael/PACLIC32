@@ -25,9 +25,7 @@ It is expected that the representations of low frequency words will remain in th
 
 
 ## Proposed Method
-<img width="237" src="https://i.imgur.com/M8Vcpf1.png">
-<img width="300" src="https://i.imgur.com/1QRtdac.png">
-|![](https://i.imgur.com/M8Vcpf1.png)|![](https://i.imgur.com/1QRtdac.png)|
+<img width="237" src="https://i.imgur.com/M8Vcpf1.png" /><img width="300" src="https://i.imgur.com/1QRtdac.png" />
 
 ## Result
 - Context-Aware Word Similarity Task
