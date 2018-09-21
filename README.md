@@ -1,4 +1,46 @@
-# SIGNL
+# Contextualized Word Representations for Multi-Sense Embedding
+
+## Summary
+Generate multiple word representations for each word in dependency structure relations.
+
+### Paper
+Contextualized Word Representations for Multi-Sense Embedding
+
+### Author/Author
+- Kazuki Ashihara (Osaka University)
+- Tomoyuki Kajiwara (Osaka University)
+- Yuki Arase (Osaka University)
+- Satoru Uchida (Kyushu University)
+
+
+## Abstract
+We propose methods to generate multiple word representations for each word based on the dependency structure relations.
+In order to deal with the data sparseness problem due to the increase in the size of vocabulary, the initial value for each word representations is determined using the pre-trained word representations.
+It is expected that the representations of low frequency words will remain in the vicinity of the initial value, which will in turn reduce the negative effects of data sparseness. 
+
+## Novelty
+- Capture word senses at a finer-grained level.
+- Using dependency structure relations.
+- Pre-training and Post-training.
+
+
+## Proposed Method
+<img width="237" alt="default" src="file:///home/ashihara/PycharmProjects/picture/algorithm.png">
+<img width="237" alt="default" src="file:///home/ashihara/PycharmProjects/picture/training.png">
+
+## Result
+- Context-Aware Word Similarity Task
+
+- Lexical Substitution Task
+
+
+
+
+## コメント
+
+
+
+
 NL研に出すかも？しれない内容です。
 
 # 概要
