@@ -39,7 +39,7 @@ It is expected that the representations of low frequency words will remain in th
 
 ## Comment
 I presented the same contents at [IPSJNLP](https://nl-ipsj.or.jp/2018/08/24/nl237_program/).\
-依存構造に基づく単語から語義の分散表現への細分化\
+[依存構造に基づく単語から語義の分散表現への細分化](https://drive.google.com/open?id=1EG2ZnCNJfPmyp0GirGfMX6UKh_i94Hp4)\
 芦原 和樹，梶原 智之，荒瀬 由紀(大阪大)，内田 諭(九州大)
 
 
